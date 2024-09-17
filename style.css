@@ -8,12 +8,13 @@ body {
   background-color: white;
 }
 #poem-topic {
-  width: 525px;
+  width: 515px;
   height: 40px;
   border-radius: 10px;
   border: none;
   font-size: 16px;
   background-color: aliceblue;
+  padding-left: 10px;
 }
 .submit-button {
   border-radius: 5px;
@@ -28,6 +29,6 @@ body {
   font-family: "satisfy", cursive;
   font-weight: 600;
   background-color: aliceblue;
-  border-left: 5px solid rgb(14, 55, 192);
-  padding-left: 5px;
+  border-left: 10px solid rgb(14, 55, 192);
+  padding-left: 10px;
 }

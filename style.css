@@ -15,6 +15,7 @@ body {
   font-size: 16px;
   background-color: aliceblue;
   padding-left: 10px;
+  box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 .submit-button {
   border-radius: 5px;
@@ -22,6 +23,7 @@ body {
   font-size: 16px;
   background-color: aliceblue;
   height: 40px;
+  box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 .poetry-text {
   line-height: 30px;
@@ -30,4 +32,7 @@ body {
   background-color: aliceblue;
   border-left: 10px solid rgb(14, 55, 192);
   padding-left: 10px;
+}
+footer {
+  color: gray;
 }

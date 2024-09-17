@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+.container {
+  display: block;
+  margin: 200px auto;
+  max-width: 600px;
+  background-color: white;
+}
+#poem-topic {
+  width: 525px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  background-color: aliceblue;
+}
+.submit-button {
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  background-color: aliceblue;
+  height: 40px;
+}
+.poetry-text {
+  line-height: 30px;
+  margin-top: 40px;
+  font-family: "satisfy", cursive;
+  font-weight: 600;
+  background-color: aliceblue;
+  border-left: 5px solid rgb(14, 55, 192);
+  padding-left: 5px;
+}
